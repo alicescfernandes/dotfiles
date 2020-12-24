@@ -17,4 +17,4 @@ A collection of my dot files. This is taylored for my, and for frontend aswell
 
 ## TODO
 - [ ] Style lint config
-- [ ] Editor config
+- [x] Editor config
