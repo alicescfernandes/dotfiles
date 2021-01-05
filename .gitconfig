@@ -1,3 +1,6 @@
 [user]
-	email = alicescfernandes@gmail.com
+	email = alice.fernandes@sky.uk
 	name = Alice Fernandes
+
+[alias]
+	addt = !sh -c 'git ls-files | grep \"\\.$1*\" | xargs git add' -
